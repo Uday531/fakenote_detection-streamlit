@@ -1,0 +1,12 @@
+names:
+- emblem
+- watermark
+- denomination_number
+- denomination_text
+- rbi_seal
+- security_features
+- currency_note
+nc: 7
+test: dataset\yolo\images\test
+train: dataset\yolo\images\train
+val: dataset\yolo\images\val
